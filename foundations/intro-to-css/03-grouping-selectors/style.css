@@ -1,0 +1,13 @@
+.buttons {
+    font-size: 28px;
+    font-family: Helvetica,'Times New Roman', sans-serif;
+}
+
+.yes-clickme {
+    background-color: rgb(7, 7, 7);
+    color: white;
+}
+
+.no-clickme {
+    background-color: rgb(244, 244, 54);
+}

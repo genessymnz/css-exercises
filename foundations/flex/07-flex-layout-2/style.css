@@ -16,7 +16,7 @@ body {
   color: white;
   font-size: 32px;
   font-weight: 900;
-  padding-top: 15px; /* only way i knew how to get the text to move lower down*/
+  padding-top: 15px; /* to get the text to move lower down*/
 }
 
 .mid-section {
@@ -29,7 +29,7 @@ body {
   background: #eee;
   color: darkmagenta;
   text-align: center;
-  padding-top: 1em; /* only way i knew how to get the text to move lower down in the middle*/
+  padding-top: 1em; /* to get the text to move lower down in the middle*/
 }
 
 .sidebar {
@@ -55,7 +55,7 @@ a {
 }
 
 li {
-  margin: 10px; /*only way i could get someo space between list elements
+  margin: 10px; /*tget someo space between list elements
   gap didnt work within the sidebar or ul container*/
 }
 
